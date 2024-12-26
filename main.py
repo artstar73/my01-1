@@ -1,3 +1,5 @@
+# Проверка
+
 import tkinter as tk
 
 def add1():
